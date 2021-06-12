@@ -1,0 +1,866 @@
+idx,process,process_general,origin,origin_region,roast,grind,arabica_percentage,pure_arabica,washed,natural,fermented_traditional,fermented_closed_tank,brewing_method
+0,Monsooning,Monsooning,Laos,Asia,light,beans,100,TRUE,FALSE,FALSE,FALSE,FALSE,drip
+1,Natural,Natural,Brazylia,Latam,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+2,Natural,Natural,Etiopia,Africa,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+3,Washed,Washed,Etiopia,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+4,Natural,Natural,Indonezja,Asia,dark,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+5,Natural,Natural,Brazylia,Latam,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+6,Washed,Washed,Kenia,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+7,Carbonic Maceration,Fermented,Panama,Latam,light,beans,100,TRUE,FALSE,FALSE,FALSE,TRUE,drip
+8,Semi-washed,Semi-washed,Kolumbia,Latam,light,ground,100,TRUE,TRUE,FALSE,TRUE,FALSE,drip
+9,Washed,Washed,Salwador,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+10,Honey,Honey,Boliwia,Latam,light,beans,100,TRUE,TRUE,TRUE,TRUE,FALSE,drip
+11,Honey,Honey,Honduras,Latam,light,beans,100,TRUE,TRUE,TRUE,TRUE,FALSE,drip
+12,Natural,Natural,Brazylia,Latam,medium,ground,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+13,Natural,Natural,Burundi,Africa,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+14,Washed,Washed,Burundi,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+15,Natural,Natural,Etiopia,Africa,light,ground,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+16,Washed,Washed,Gwatemala,Latam,light,ground,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+17,Natural,Natural,Honduras,Latam,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+18,Washed,Washed,Kolumbia,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+19,Washed,Washed,Kolumbia,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+20,Washed,Washed,Etiopia,Africa,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+21,Natural,Natural,"Kenia, Indie",Mixed,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+22,Monsooning,Monsooning,Laos,Asia,light,beans,100,TRUE,FALSE,FALSE,FALSE,FALSE,drip
+23,Washed,Washed,Kolumbia,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+24,Natural,Natural,Kolumbia,Latam,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+25,Washed,Washed,"Brazylia, inne",Mixed,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+26,Washed,Washed,Etiopia,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+27,Washed Anaerobic,Fermented,Honduras,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,TRUE,drip
+28,Honey,Honey,Indie,Asia,light,beans,100,TRUE,TRUE,TRUE,TRUE,FALSE,drip
+29,Washed,Washed,Peru,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+30,Washed,Washed,Rwanda,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+31,Washed,Washed,Rwanda,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+32,Natural,Natural,Etiopia,Africa,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+33,Washed,Washed,Gwatemala,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+34,Anaerobic,Fermented,Honduras,Latam,light,beans,100,TRUE,FALSE,FALSE,FALSE,TRUE,drip
+35,Washed,Washed,Kolumbia,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+36,Carbonic Maceration,Fermented,Gwatemala,Latam,light,beans,100,TRUE,FALSE,FALSE,FALSE,TRUE,drip
+37,Carbonic Maceration,Fermented,Gwatemala,Latam,light,beans,100,TRUE,FALSE,FALSE,FALSE,TRUE,drip
+38,Monsooning,Monsooning,Laos,Asia,light,beans,100,TRUE,FALSE,FALSE,FALSE,FALSE,drip
+39,Washed,Washed,Rwanda,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+40,Macerated Natural,Fermented,Brazylia,Latam,light,ground,100,TRUE,FALSE,TRUE,TRUE,FALSE,drip
+41,Macerated Natural,Fermented,Brazylia,Latam,light,ground,100,TRUE,FALSE,TRUE,TRUE,FALSE,drip
+42,Washed,Washed,Etiopia,Africa,light,ground,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+43,Washed,Washed,Etiopia,Africa,light,ground,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+44,Semi-washed,Semi-washed,Honduras,Latam,light,ground,100,TRUE,TRUE,FALSE,TRUE,FALSE,drip
+45,Semi-washed,Semi-washed,Honduras,Latam,light,ground,100,TRUE,TRUE,FALSE,TRUE,FALSE,drip
+46,Washed,Washed,Kenia,Africa,light,ground,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+47,Washed,Washed,Kenia,Africa,light,ground,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+48,Semi-washed,Semi-washed,Kolumbia,Latam,light,ground,100,TRUE,TRUE,FALSE,TRUE,FALSE,drip
+49,Semi-washed,Semi-washed,"Honduras, Kolumbia, Peru",Latam,light,ground,100,TRUE,TRUE,FALSE,TRUE,FALSE,drip
+50,Natural,Natural,Kolumbia,Latam,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+51,Washed,Washed,Kolumbia,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+52,Macerated Natural,Fermented,Peru,Latam,light,beans,100,TRUE,FALSE,TRUE,TRUE,FALSE,drip
+53,Pulped natural,Hybrid,Kolumbia,Latam,light,beans,100,TRUE,TRUE,TRUE,FALSE,FALSE,drip
+54,Washed,Washed,Kolumbia,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+55,Natural,Natural,Indonezja,Asia,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+56,Washed,Washed,Peru,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+57,Washed,Washed,Rwanda,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+58,Washed,Washed,Etiopia,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+59,Honey,Honey,Etiopia,Africa,light,beans,100,TRUE,TRUE,TRUE,TRUE,FALSE,drip
+60,Washed,Washed,Etiopia,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+61,Natural,Natural,Kolumbia,Latam,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+62,Washed,Washed,Kolumbia,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+63,Natural,Natural,Brazylia,Latam,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+64,Washed,Washed,Chiny,Asia,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+65,Washed,Washed,Etiopia,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+66,Natural,Natural,Etiopia,Africa,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+67,Washed,Washed,Gwatemala,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+68,Washed,Washed,Indonezja,Asia,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+69,Washed,Washed,Kenia,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+70,Washed,Washed,Mjanma,Asia,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+71,Washed,Washed,Gwatemala,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+72,Washed,Washed,Kolumbia,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+73,Honey,Honey,Kostaryka,Latam,light,beans,100,TRUE,TRUE,TRUE,TRUE,FALSE,drip
+74,Washed,Washed,Rwanda,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+75,Natural,Natural,Rwanda,Africa,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+76,Honey,Honey,Brazylia,Latam,light,beans,100,TRUE,TRUE,TRUE,TRUE,FALSE,drip
+77,Pulped natural,Hybrid,Brazylia,Latam,light,beans,100,TRUE,TRUE,TRUE,FALSE,FALSE,drip
+78,Washed,Washed,Burundi,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+79,Natural,Natural,Kostaryka,Latam,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+80,Washed,Washed,Gwatemala,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+81,Natural,Natural,Gwatemala,Latam,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+82,Natural,Natural,Gwatemala,Latam,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+83,Honey,Honey,Honduras,Latam,light,beans,100,TRUE,TRUE,TRUE,TRUE,FALSE,drip
+84,Washed,Washed,Indonezja,Asia,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+85,Washed,Washed,Peru,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+86,Washed,Washed,Etiopia,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+87,Washed,Washed,Peru,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+88,Macerated Natural,Fermented,Peru,Latam,light,beans,100,TRUE,FALSE,TRUE,TRUE,FALSE,drip
+89,Natural,Natural,Peru,Latam,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+90,Washed,Washed,Rwanda,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+91,Natural,Natural,Brazylia,Latam,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+92,Washed,Washed,Etiopia,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+93,Washed,Washed,Gwatemala,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+94,Washed,Washed,Kenia,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+95,Washed,Washed,Kolumbia,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+96,Natural,Natural,Rwanda,Africa,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+97,Washed,Washed,Rwanda,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+98,Yellow Bourbon,Fermented,Brazylia,Latam,light,beans,100,TRUE,FALSE,FALSE,FALSE,FALSE,drip
+99,Natural,Natural,Salwador,Latam,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+100,Natural,Natural,"Brazylia, Kenia",Mixed,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+101,Washed,Washed,Kenia,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+102,Natural,Natural,Brazylia,Latam,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+103,Washed,Washed,Kolumbia,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+104,Washed,Washed,Brazylia,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+105,Natural,Natural,Rwanda,Africa,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+106,Natural,Natural,Rwanda,Africa,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+107,Aerobic Fermentation in Piles,Fermented,Brazylia,Latam,light,beans,100,TRUE,FALSE,FALSE,TRUE,FALSE,drip
+108,Yeast Process,Fermented,Salwador,Latam,light,beans,100,TRUE,FALSE,FALSE,FALSE,TRUE,drip
+109,Washed,Washed,Etiopia,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+110,Natural,Natural,Etiopia,Africa,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+111,Honey,Honey,Etiopia,Africa,light,beans,100,TRUE,TRUE,TRUE,TRUE,FALSE,drip
+112,Washed Anaerobic,Fermented,Honduras,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,TRUE,drip
+113,Washed,Washed,Honduras,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+114,Carbonic Maceration,Fermented,Kolumbia,Latam,light,beans,100,TRUE,FALSE,FALSE,FALSE,TRUE,drip
+115,Honey,Honey,Kostaryka,Latam,light,beans,100,TRUE,TRUE,TRUE,TRUE,FALSE,drip
+116,Honey,Honey,Kostaryka,Latam,light,beans,100,TRUE,TRUE,TRUE,TRUE,FALSE,drip
+117,Natural,Natural,Meksyk,Latam,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+118,Washed,Washed,Peru,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+119,Semi-Carbonic Maceration,Fermented,Peru,Latam,light,beans,100,TRUE,FALSE,FALSE,FALSE,FALSE,drip
+120,Semi-Carbonic Maceration,Fermented,"Brazylia, inne",Mixed,light,beans,100,TRUE,FALSE,FALSE,FALSE,FALSE,drip
+121,Semi-Carbonic Maceration,Fermented,"Brazylia, inne",Mixed,light,beans,100,TRUE,FALSE,FALSE,FALSE,FALSE,drip
+122,Washed,Washed,Etiopia,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+123,Washed,Washed,Etiopia,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+124,Washed,Washed,Etiopia,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+125,Semi-washed,Semi-washed,Rwanda,Africa,light,beans,100,TRUE,TRUE,FALSE,TRUE,FALSE,drip
+126,Semi-washed,Semi-washed,Rwanda,Africa,light,beans,100,TRUE,TRUE,FALSE,TRUE,FALSE,drip
+127,Semi-washed,Semi-washed,Rwanda,Africa,light,beans,100,TRUE,TRUE,FALSE,TRUE,FALSE,drip
+128,Semi-washed,Semi-washed,"Honduras, Kolumbia, Peru",Latam,light,ground,100,TRUE,TRUE,FALSE,TRUE,FALSE,drip
+129,Honey,Honey,Kostaryka,Latam,light,beans,100,TRUE,TRUE,TRUE,TRUE,FALSE,drip
+130,Washed,Washed,Gwatemala,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+131,Washed,Washed,Honduras,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+132,Honey,Honey,Meksyk,Latam,light,beans,100,TRUE,TRUE,TRUE,TRUE,FALSE,drip
+133,Anaerobic,Fermented,Kolumbia,Latam,light,beans,100,TRUE,FALSE,FALSE,FALSE,TRUE,drip
+134,Washed,Washed,Etiopia,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+135,Natural,Natural,Etiopia,Africa,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+136,Washed,Washed,Burundi,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+137,Washed,Washed,Gwatemala,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+138,Washed,Washed,Etiopia,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+139,Washed,Washed,Kenia,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+140,Natural,Natural,Kostaryka,Latam,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+141,Honey,Honey,Kostaryka,Latam,light,beans,100,TRUE,TRUE,TRUE,TRUE,FALSE,drip
+142,Natural,Natural,Nikaragua,Latam,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+143,Anaerobic natural,Fermented,Salwador,Latam,light,beans,100,TRUE,FALSE,TRUE,FALSE,TRUE,drip
+144,Natural,Natural,Uganda,Africa,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+145,Natural,Natural,Uganda,Africa,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+146,Natural,Natural,Brazylia,Latam,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+147,Washed,Washed,Burundi,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+148,Natural,Natural,Burundi,Africa,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+149,Washed,Washed,Etiopia,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+150,Washed,Washed,Kenia,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+151,Natural,Natural,Kolumbia,Latam,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+152,Natural,Natural,Salwador,Latam,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+153,Washed,Washed,Gwatemala,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+154,Washed,Washed,Honduras,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+155,Washed,Washed,Kenia,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+156,Washed,Washed,Kolumbia,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+157,Natural,Natural,Brazylia,Latam,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+158,Washed,Washed,Kolumbia,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+159,Washed,Washed,Etiopia,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+160,Anaerobic,Fermented,Kolumbia,Latam,light,beans,100,TRUE,FALSE,FALSE,FALSE,TRUE,drip
+161,Rum Aged,Fermented,Kolumbia,Latam,light,beans,100,TRUE,FALSE,FALSE,FALSE,FALSE,drip
+162,Macerated Natural,Fermented,Honduras,Latam,light,beans,100,TRUE,FALSE,TRUE,TRUE,FALSE,drip
+163,Macerated Natural,Fermented,Honduras,Latam,light,beans,100,TRUE,FALSE,TRUE,TRUE,FALSE,drip
+164,Anaerobic,Fermented,Salwador,Latam,light,beans,100,TRUE,FALSE,FALSE,FALSE,TRUE,drip
+165,Washed,Washed,Boliwia,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+166,Natural,Natural,Panama,Latam,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+167,Washed,Washed,Kolumbia,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+168,Washed,Washed,Kolumbia,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+169,CRYO,CRYO,Brazylia,Latam,light,beans,100,TRUE,FALSE,FALSE,FALSE,FALSE,drip
+170,Natural,Natural,Burundi,Africa,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+171,Washed,Washed,Kolumbia,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+172,Yeast Process,Fermented,Salwador,Latam,light,beans,100,TRUE,FALSE,FALSE,FALSE,TRUE,drip
+173,Natural,Natural,Rwanda,Africa,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+174,Pulped natural,Hybrid,Brazylia,Latam,medium,beans,100,TRUE,TRUE,TRUE,FALSE,FALSE,drip
+175,Washed,Washed,Kostaryka,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+176,Natural,Natural,Etiopia,Africa,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+177,Washed,Washed,Peru,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+178,Washed,Washed,Etiopia,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+179,Washed,Washed,Etiopia,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+180,Natural,Natural,Indonezja,Asia,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+181,Washed,Washed,Etiopia,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+182,Anaerobic,Fermented,Honduras,Latam,light,beans,100,TRUE,FALSE,FALSE,FALSE,TRUE,drip
+183,Washed and natural,Hybrid,Kolumbia,Latam,light,beans,100,TRUE,TRUE,TRUE,FALSE,FALSE,drip
+184,Natural,Natural,Rwanda,Africa,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+185,Washed,Washed,Etiopia,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+186,Washed,Washed,Gwatemala,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+187,Washed,Washed,Honduras,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+188,Washed,Washed,Kenia,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+189,Honey,Honey,Kostaryka,Latam,light,beans,100,TRUE,TRUE,TRUE,TRUE,FALSE,drip
+190,Natural,Natural,Nikaragua,Latam,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+191,Washed,Washed,Kolumbia,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+192,Washed,Washed,Etiopia,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+193,Washed,Washed,Gwatemala,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+194,Natural,Natural,Brazylia,Latam,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+195,"Washed, Barrel Aged",Fermented,Kolumbia,Latam,light,beans,100,TRUE,FALSE,FALSE,FALSE,FALSE,drip
+196,Washed,Washed,Salwador,Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+197,Natural,Natural,Sumatra,Asia,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+198,Washed,Washed,Gwatemala,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+199,Washed,Washed,Kenia,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+200,Washed,Washed,Rwanda,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+201,Natural,Natural,Rwanda,Africa,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+202,Semi-Carbonic Maceration,Fermented,Etiopia,Africa,light,ground,100,TRUE,FALSE,FALSE,FALSE,FALSE,drip
+203,Semi-Carbonic Maceration,Fermented,Etiopia,Africa,light,ground,100,TRUE,FALSE,FALSE,FALSE,FALSE,drip
+204,Semi-Carbonic Maceration,Fermented,Etiopia,Africa,light,ground,100,TRUE,FALSE,FALSE,FALSE,FALSE,drip
+205,Semi-Carbonic Maceration,Fermented,Etiopia,Africa,light,ground,100,TRUE,FALSE,FALSE,FALSE,FALSE,drip
+206,Semi-washed,Semi-washed,Kolumbia,Latam,light,ground,100,TRUE,TRUE,FALSE,TRUE,FALSE,drip
+207,Semi-washed,Semi-washed,Kolumbia,Latam,light,ground,100,TRUE,TRUE,FALSE,TRUE,FALSE,drip
+208,Semi-washed,Semi-washed,Kolumbia,Latam,light,ground,100,TRUE,TRUE,FALSE,TRUE,FALSE,drip
+209,Natural,Natural,Brazylia,Latam,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+210,Washed,Washed,Burundi,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+211,Washed,Washed,Gwatemala,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+212,Honey,Honey,Nikaragua,Latam,light,beans,100,TRUE,TRUE,TRUE,TRUE,FALSE,drip
+213,Natural,Natural,Etiopia,Africa,light,ground,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+214,Washed,Washed,Kenia,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+215,Natural,Natural,Nikaragua,Latam,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+216,Natural,Natural,Panama,Latam,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+217,Natural,Natural,Etiopia,Africa,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+218,Natural,Natural,Etiopia,Africa,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+219,Semi-Carbonic Maceration,Fermented,Brazylia,Latam,light,beans,100,TRUE,FALSE,FALSE,FALSE,FALSE,drip
+220,Natural,Natural,Brazylia,Latam,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+221,Washed,Washed,Etiopia,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+222,Monsooning,Monsooning,Indie,Asia,medium,beans,100,TRUE,FALSE,FALSE,FALSE,FALSE,drip
+223,Washed,Washed,Peru,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+224,Washed,Washed,Rwanda,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+225,Monsooning,Monsooning,Brazylia,Latam,light,beans,100,TRUE,FALSE,FALSE,FALSE,FALSE,drip
+226,Washed,Washed,Kenia,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+227,Washed,Washed,Honduras,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+228,Washed,Washed,Kenia,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+229,Washed,Washed,Kenia,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+230,Washed,Washed,Peru,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+231,Washed,Washed,Kenia,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+232,Natural,Natural,Kolumbia,Latam,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+233,Washed,Washed,"Rwanda, inne",Mixed,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+234,Washed,Washed,Kenia,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+235,Washed,Washed,Rwanda,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+236,Washed,Washed,Kolumbia,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+237,Washed,Washed,Kolumbia,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+238,Honey,Honey,Indie,Asia,light,beans,100,TRUE,TRUE,TRUE,TRUE,FALSE,drip
+239,Washed,Washed,Rwanda,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+240,Washed,Washed,Gwatemala,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+241,Natural,Natural,Nikaragua,Latam,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+242,Washed,Washed,Rwanda,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+243,Washed,Washed,Gwatemala,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+244,Washed,Washed,Kolumbia,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+245,Natural,Natural,Nikaragua,Latam,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+246,Semi-washed,Semi-washed,Honduras,Latam,light,ground,100,TRUE,TRUE,FALSE,TRUE,FALSE,drip
+247,Natural,Natural,Rwanda,Africa,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+248,Washed,Washed,Rwanda,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+249,Anaerobic,Fermented,Brazylia,Latam,light,beans,100,TRUE,FALSE,FALSE,FALSE,TRUE,drip
+250,Washed,Washed,Honduras,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+251,Washed,Washed,Kenia,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+252,Washed,Washed,Kenia,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+253,Washed,Washed,Kenia,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+254,Washed,Washed,Kenia,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+255,Washed,Washed,Peru,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+256,Natural,Natural,Kolumbia,Latam,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+257,Washed,Washed,"Papua Nowa Gwinea, Rwanda",Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+258,Natural,Natural,Kolumbia,Latam,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+259,Washed,Washed,Kolumbia,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+260,Honey,Honey,Salwador,Latam,light,beans,100,TRUE,TRUE,TRUE,TRUE,FALSE,drip
+261,Washed,Washed,Rwanda,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+262,Natural,Natural,Indonezja,Asia,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+263,Natural,Natural,Brazylia,Latam,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+264,Natural,Natural,Chiny,Asia,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+265,Washed,Washed,Etiopia,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+266,Honey,Honey,Burundi,Africa,light,beans,100,TRUE,TRUE,TRUE,TRUE,FALSE,drip
+267,Washed,Washed,Etiopia,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+268,Washed,Washed,Kenia,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+269,Anaerobic,Fermented,Rwanda,Africa,light,beans,100,TRUE,FALSE,FALSE,FALSE,TRUE,drip
+270,Natural,Natural,Etiopia,Africa,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+271,Washed,Washed,Indie,Asia,light,beans,0,FALSE,TRUE,FALSE,FALSE,FALSE,drip
+272,Washed,Washed,Kostaryka,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+273,Natural,Natural,Meksyk,Latam,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+274,Washed,Washed,Nikaragua,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+275,Natural,Natural,Brazylia,Latam,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+276,Washed,Washed,Etiopia,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+277,Washed,Washed,Gwatemala,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+278,Natural,Natural,Etiopia,Africa,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+279,Washed,Washed,Kenia,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+280,Natural,Natural,Peru,Latam,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+281,Washed,Washed,Peru,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+282,Washed,Washed,Rwanda,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+283,Natural,Natural,Peru,Latam,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+284,Washed,Washed,Peru,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+285,Washed,Washed,Rwanda,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+286,Natural,Natural,Salwador,Latam,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+287,Honey,Honey,Salwador,Latam,light,beans,100,TRUE,TRUE,TRUE,TRUE,FALSE,drip
+288,Honey,Honey,Salwador,Latam,light,beans,100,TRUE,TRUE,TRUE,TRUE,FALSE,drip
+289,Natural,Natural,Etiopia,Africa,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+290,Washed,Washed,Gwatemala,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+291,Washed,Washed,Meksyk,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+292,Natural,Natural,Mjanma,Asia,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+293,Natural,Natural,Kostaryka,Latam,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+294,Honey,Honey,Salwador,Latam,light,beans,100,TRUE,TRUE,TRUE,TRUE,FALSE,drip
+295,Natural,Natural,Gwatemala,Latam,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+296,Honey,Honey,Honduras,Latam,light,beans,100,TRUE,TRUE,TRUE,TRUE,FALSE,drip
+297,Natural,Natural,Rwanda,Africa,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+298,Natural,Natural,Kolumbia,Latam,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+299,Natural,Natural,Kolumbia,Latam,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+300,Natural,Natural,Kostaryka,Latam,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+301,Washed,Washed,Rwanda,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+302,Natural,Natural,Etiopia,Africa,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+303,Washed,Washed,Kenia,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+304,Natural,Natural,Salwador,Latam,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+305,Natural,Natural,Etiopia,Africa,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+306,Washed,Washed,Kolumbia,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+307,Natural,Natural,Salwador,Latam,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+308,Honey,Honey,Brazylia,Latam,light,beans,100,TRUE,TRUE,TRUE,TRUE,FALSE,drip
+309,Washed,Washed,Demokratyczna Republika Konga,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+310,Honey,Honey,Etiopia,Africa,light,beans,100,TRUE,TRUE,TRUE,TRUE,FALSE,drip
+311,Natural,Natural,Etiopia,Africa,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+312,Semi-washed,Semi-washed,Kolumbia,Latam,light,beans,100,TRUE,TRUE,FALSE,TRUE,FALSE,drip
+313,Natural,Natural,Papua Nowa Gwinea,Africa,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+314,Washed,Washed,Tanzania,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+315,Natural,Natural,Honduras,Latam,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+316,Pulped natural,Hybrid,Brazylia,Latam,light,beans,100,TRUE,TRUE,TRUE,FALSE,FALSE,drip
+317,Aerobic Fermentation in Piles,Fermented,Brazylia,Latam,light,beans,100,TRUE,FALSE,FALSE,TRUE,FALSE,drip
+318,Experimental Anaerobic,Fermented,Gwatemala,Latam,light,beans,100,TRUE,FALSE,FALSE,FALSE,TRUE,drip
+319,Honey,Honey,Honduras,Latam,light,beans,100,TRUE,TRUE,TRUE,TRUE,FALSE,drip
+320,Washed,Washed,Peru,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+321,Washed,Washed,Boliwia,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+322,Natural,Natural,Boliwia,Latam,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+323,Washed,Washed,Honduras,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+324,Natural,Natural,Kolumbia,Latam,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+325,Washed,Washed,Peru,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+326,Washed,Washed,Indonezja,Asia,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+327,Washed,Washed,Kenia,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+328,Washed,Washed,Kolumbia,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+329,Washed,Washed,Gwatemala,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+330,Washed,Washed,Gwatemala,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+331,Monsooning,Monsooning,Laos,Asia,light,beans,100,TRUE,FALSE,FALSE,FALSE,FALSE,drip
+332,Honey,Honey,Kostaryka,Latam,light,beans,100,TRUE,TRUE,TRUE,TRUE,FALSE,drip
+333,Washed,Washed,Peru,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+334,Anaerobic natural,Fermented,Salwador,Latam,light,beans,100,TRUE,FALSE,TRUE,FALSE,TRUE,drip
+335,Natural,Natural,Meksyk,Latam,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+336,Natural,Natural,"Brazylia, Etiopia",Mixed,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+337,Honey,Honey,Brazylia,Latam,light,beans,100,TRUE,TRUE,TRUE,TRUE,FALSE,drip
+338,Anaerobic,Fermented,Burundi,Africa,light,beans,100,TRUE,FALSE,FALSE,FALSE,TRUE,drip
+339,Washed,Washed,Salwador,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+340,Washed,Washed,Kostaryka,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+341,Natural,Natural,Etiopia,Africa,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+342,Washed,Washed,Gwatemala,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+343,Closed Tank Fermentation,Fermented,Indonezja,Asia,light,beans,100,TRUE,TRUE,FALSE,FALSE,TRUE,drip
+344,Carbonic Maceration,Fermented,Gwatemala,Latam,light,beans,100,TRUE,FALSE,FALSE,FALSE,TRUE,drip
+345,Carbonic Maceration,Fermented,Gwatemala,Latam,light,beans,100,TRUE,FALSE,FALSE,FALSE,TRUE,drip
+346,Washed,Washed,Kolumbia,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+347,Washed,Washed,Kolumbia,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+348,Natural,Natural,Salwador,Latam,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+349,Natural,Natural,Panama,Latam,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+350,Natural,Natural,Kostaryka,Latam,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+351,Rum Aged,Fermented,Kolumbia,Latam,light,beans,100,TRUE,FALSE,FALSE,FALSE,FALSE,drip
+352,Washed Double Anaerobic,Fermented,Kolumbia,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,TRUE,drip
+353,Anaerobic,Fermented,Kolumbia,Latam,light,beans,100,TRUE,FALSE,FALSE,FALSE,TRUE,drip
+354,Anaerobic,Fermented,Salwador,Latam,light,beans,100,TRUE,FALSE,FALSE,FALSE,TRUE,drip
+355,Anaerobic,Fermented,Salwador,Latam,light,beans,100,TRUE,FALSE,FALSE,FALSE,TRUE,drip
+356,Washed,Washed,Gwatemala,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+357,Washed,Washed,Rwanda,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+358,Washed,Washed,Tanzania,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+359,Washed,Washed,Gwatemala,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+360,Washed,Washed,Rwanda,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+361,Washed,Washed,Gwatemala,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+362,Washed,Washed,Rwanda,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+363,Washed,Washed,Burundi,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+364,Washed,Washed,Kenia,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+365,Natural,Natural,Boliwia,Latam,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+366,Washed,Washed,Etiopia,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+367,Washed,Washed,Gwatemala,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+368,Washed,Washed,Kolumbia,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+369,Washed,Washed,Salwador,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+370,Washed,Washed,Etiopia,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+371,Washed,Washed,Gwatemala,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+372,Washed,Washed,Gwatemala,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+373,Washed,Washed,Kenia,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+374,Anaerobic,Fermented,Kolumbia,Latam,light,beans,100,TRUE,FALSE,FALSE,FALSE,TRUE,drip
+375,Natural,Natural,Etiopia,Africa,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+376,Washed,Washed,Kenia,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+377,Natural,Natural,Kostaryka,Latam,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+378,Washed,Washed,Etiopia,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+379,Washed,Washed,Kolumbia,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+380,Natural,Natural,Brazylia,Latam,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,drip
+381,Natural,Natural,Panama,Latam,dark,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,"drip, espresso"
+382,Rum Aged,Fermented,Demokratyczna Republika Konga,Africa,medium,beans,100,TRUE,FALSE,FALSE,FALSE,FALSE,"drip, espresso"
+383,Natural,Natural,"Etiopia, Kolumbia",Mixed,medium,ground,100,TRUE,FALSE,TRUE,FALSE,FALSE,"drip, espresso"
+384,Natural,Natural,Etiopia,Africa,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,"drip, espresso"
+385,Natural,Natural,"Etiopia, Kolumbia",Mixed,medium,ground,100,TRUE,FALSE,TRUE,FALSE,FALSE,"drip, espresso"
+386,Natural,Natural,"Etiopia, Kolumbia",Mixed,medium,ground,100,TRUE,FALSE,TRUE,FALSE,FALSE,"drip, espresso"
+387,Rum Aged,Fermented,Demokratyczna Republika Konga,Africa,medium,beans,100,TRUE,FALSE,FALSE,FALSE,FALSE,"drip, espresso"
+388,Rum Aged,Fermented,Demokratyczna Republika Konga,Africa,medium,beans,100,TRUE,FALSE,FALSE,FALSE,FALSE,"drip, espresso"
+389,Washed,Washed,Honduras,Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,"drip, espresso"
+390,Natural,Natural,Brazylia,Latam,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,"drip, espresso"
+391,Natural,Natural,Brazylia,Latam,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,"drip, espresso"
+392,Natural,Natural,Brazylia,Latam,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,"drip, espresso"
+393,Washed,Washed,Kolumbia,Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,"drip, espresso"
+394,Washed,Washed,Malawi,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,"drip, espresso"
+395,Washed,Washed,Rwanda,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,"drip, espresso"
+396,Natural,Natural,Brazylia,Latam,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,"drip, espresso"
+397,Washed,Washed,Gwatemala,Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,"drip, espresso"
+398,Natural,Natural,Brazylia,Latam,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,"drip, espresso"
+399,Washed,Washed,Gwatemala,Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,"drip, espresso"
+400,Semi-washed,Semi-washed,Indonezja,Asia,medium,beans,100,TRUE,TRUE,FALSE,TRUE,FALSE,"drip, espresso"
+401,Semi-Carbonic Maceration,Fermented,Meksyk,Latam,medium,beans,100,TRUE,FALSE,FALSE,FALSE,FALSE,"drip, espresso"
+402,Washed,Washed,Kolumbia,Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,"drip, espresso"
+403,Natural,Natural,Kolumbia,Latam,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,"drip, espresso"
+404,Washed,Washed,Etiopia,Africa,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,"drip, espresso"
+405,Natural,Natural,Rwanda,Africa,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,"drip, espresso"
+406,Semi-Carbonic Maceration,Fermented,Gwatemala,Latam,medium,beans,100,TRUE,FALSE,FALSE,FALSE,FALSE,"drip, espresso"
+407,Natural,Natural,Brazylia,Latam,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,"drip, espresso"
+408,Washed,Washed,Burundi,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,"drip, espresso"
+409,Washed,Washed,Kolumbia,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,"drip, espresso"
+410,Natural,Natural,Brazylia,Latam,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,"drip, espresso"
+411,Semi-Washed Kombucha Experiment,Fermented,Salwador,Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,TRUE,"drip, espresso"
+412,Pulped natural,Hybrid,Brazylia,Latam,medium,beans,100,TRUE,TRUE,TRUE,FALSE,FALSE,"drip, espresso"
+413,Washed,Washed,Kenia,Africa,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,"drip, espresso"
+414,Natural,Natural,Rwanda,Africa,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,"drip, espresso"
+415,Anaerobic,Fermented,Kolumbia,Latam,medium,beans,100,TRUE,FALSE,FALSE,FALSE,TRUE,"drip, espresso"
+416,Natural,Natural,Panama,Latam,dark,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,"drip, espresso"
+417,Rum Aged,Fermented,Demokratyczna Republika Konga,Africa,medium,beans,100,TRUE,FALSE,FALSE,FALSE,FALSE,"drip, espresso"
+418,Rum Aged,Fermented,Demokratyczna Republika Konga,Africa,medium,beans,100,TRUE,FALSE,FALSE,FALSE,FALSE,"drip, espresso"
+419,Washed,Washed,Honduras,Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,"drip, espresso"
+420,Washed,Washed,Honduras,Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,"drip, espresso"
+421,Washed,Washed,Etiopia,Africa,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,"drip, espresso"
+422,Washed,Washed,Kolumbia,Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,"drip, espresso"
+423,Natural,Natural,Kostaryka,Latam,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,"drip, espresso"
+424,Honey,Honey,Kostaryka,Latam,medium,beans,100,TRUE,TRUE,TRUE,TRUE,FALSE,"drip, espresso"
+425,Natural,Natural,Etiopia,Africa,light,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,"drip, espresso"
+426,Semi-Washed Kombucha Experiment,Fermented,"Etiopia, Gwatemala",Mixed,medium,beans,100,TRUE,TRUE,FALSE,FALSE,TRUE,"drip, espresso"
+427,Honey,Honey,Gwatemala,Latam,medium,beans,100,TRUE,TRUE,TRUE,TRUE,FALSE,"drip, espresso"
+428,Natural,Natural,Brazylia,Latam,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,"drip, espresso"
+429,Washed,Washed,Kolumbia,Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,"drip, espresso"
+430,Washed,Washed,Gwatemala,Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,"drip, espresso"
+431,Washed,Washed,Kenia,Africa,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,"drip, espresso"
+432,Anaerobic natural,Fermented,Brazylia,Latam,medium,beans,100,TRUE,FALSE,TRUE,FALSE,TRUE,"drip, espresso"
+433,Washed,Washed,Kolumbia,Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,"drip, espresso"
+434,Natural,Natural,Kolumbia,Latam,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,"drip, espresso"
+435,Washed,Washed,Nikaragua,Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,"drip, espresso"
+436,Washed,Washed,Burundi,Africa,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,"drip, espresso"
+437,Natural,Natural,Brazylia,Latam,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,"drip, espresso"
+438,Honey,Honey,Gwatemala,Latam,medium,beans,100,TRUE,TRUE,TRUE,TRUE,FALSE,"drip, espresso"
+439,Natural,Natural,Gwatemala,Latam,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,"drip, espresso"
+440,Washed,Washed,Kenia,Africa,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,"drip, espresso"
+441,Washed,Washed,Rwanda,Africa,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,"drip, espresso"
+442,Honey,Honey,Indonezja,Asia,medium,beans,100,TRUE,TRUE,TRUE,TRUE,FALSE,"drip, espresso"
+443,Washed,Washed,Etiopia,Africa,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,"drip, espresso"
+444,Natural,Natural,Etiopia,Africa,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,"drip, espresso"
+445,Anaerobic,Fermented,Kolumbia,Latam,medium,beans,100,TRUE,FALSE,FALSE,FALSE,TRUE,"drip, espresso"
+446,Washed and natural,Hybrid,Kolumbia,Latam,medium,beans,100,TRUE,TRUE,TRUE,FALSE,FALSE,"drip, espresso"
+447,Honey,Honey,Salwador,Latam,medium,beans,100,TRUE,TRUE,TRUE,TRUE,FALSE,"drip, espresso"
+448,Natural,Natural,Salwador,Latam,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,"drip, espresso"
+449,Washed,Washed,Etiopia,Africa,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,"drip, espresso"
+450,Honey,Honey,Salwador,Latam,medium,beans,100,TRUE,TRUE,TRUE,TRUE,FALSE,"drip, espresso"
+451,Fermentacja kontrolowana,Fermented,Brazylia,Latam,medium,beans,100,TRUE,FALSE,FALSE,TRUE,FALSE,"drip, espresso"
+452,Natural,Natural,Rwanda,Africa,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,"drip, espresso"
+453,Natural,Natural,Uganda,Africa,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+454,Natural,Natural,Uganda,Africa,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+455,Pulped natural,Hybrid,"Brazylia, Indie",Mixed,medium,beans,100,TRUE,TRUE,TRUE,FALSE,FALSE,espresso
+456,Rum Aged,Fermented,Italy,Europe,medium,beans,85,FALSE,FALSE,FALSE,FALSE,FALSE,espresso
+457,Rum Aged,Fermented,Italy,Europe,medium,beans,85,FALSE,FALSE,FALSE,FALSE,FALSE,espresso
+458,Pulped natural,Hybrid,"Brazylia, Indie",Mixed,medium,beans,100,TRUE,TRUE,TRUE,FALSE,FALSE,espresso
+459,Natural,Natural,Kenia,Africa,medium,beans,50,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+460,Semi-Washed Kombucha Experiment,Fermented,Italy,Europe,medium,beans,75,FALSE,TRUE,FALSE,FALSE,TRUE,espresso
+461,Semi-Washed Kombucha Experiment,Fermented,Italy,Europe,medium,beans,75,FALSE,TRUE,FALSE,FALSE,TRUE,espresso
+462,Pulped natural,Hybrid,"Brazylia, Indie",Mixed,medium,beans,100,TRUE,TRUE,TRUE,FALSE,FALSE,espresso
+463,Pulped natural,Hybrid,"Brazylia, Indie",Mixed,medium,beans,100,TRUE,TRUE,TRUE,FALSE,FALSE,espresso
+464,Washed,Washed,Peru,Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+465,Semi-Carbonic Maceration,Fermented,"Brazylia, Kolumbia",Latam,medium,ground,100,TRUE,FALSE,FALSE,FALSE,FALSE,espresso
+466,Pulped natural,Hybrid,"Brazylia, Indie",Mixed,medium,beans,100,TRUE,TRUE,TRUE,FALSE,FALSE,espresso
+467,Washed,Washed,Italy,Europe,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+468,Natural,Natural,Brazylia,Latam,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+469,Washed,Washed,Demokratyczna Republika Konga,Africa,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+470,Washed,Washed,Demokratyczna Republika Konga,Africa,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+471,Washed,Washed,Peru,Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+472,Washed,Washed,Peru,Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+473,Natural,Natural,Brazylia,Latam,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+474,Semi-Washed Kombucha Experiment,Fermented,"Brazylia, Tanzania",Mixed,dark,beans,100,TRUE,TRUE,FALSE,FALSE,TRUE,espresso
+475,Pulped natural,Hybrid,"Etiopia, Brazylia",Mixed,medium,beans,50,FALSE,TRUE,TRUE,FALSE,FALSE,espresso
+476,Semi-Washed Kombucha Experiment,Fermented,"Brazylia, Tanzania",Mixed,dark,beans,100,TRUE,TRUE,FALSE,FALSE,TRUE,espresso
+477,Semi-Washed Kombucha Experiment,Fermented,"Brazylia, Tanzania",Mixed,dark,beans,100,TRUE,TRUE,FALSE,FALSE,TRUE,espresso
+478,Semi-Washed Kombucha Experiment,Fermented,"Brazylia, Tanzania",Mixed,dark,beans,100,TRUE,TRUE,FALSE,FALSE,TRUE,espresso
+479,Natural,Natural,Kenia,Africa,medium,beans,60,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+480,Washed,Washed,"Brazylia, Burundi, Peru",Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+481,Natural,Natural,"Etiopia, Brazylia",Mixed,dark,beans,80,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+482,Semi-Washed Kombucha Experiment,Fermented,"Brazylia, Tanzania",Mixed,dark,beans,100,TRUE,TRUE,FALSE,FALSE,TRUE,espresso
+483,Natural,Natural,Brazylia,Latam,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+484,Natural,Natural,Brazylia,Latam,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+485,Natural,Natural,Brazylia,Latam,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+486,Natural,Natural,Brazylia,Latam,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+487,Natural,Natural,"Etiopia, Brazylia",Mixed,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+488,Semi-washed,Semi-washed,Italy,Europe,dark,beans,100,TRUE,TRUE,FALSE,TRUE,FALSE,espresso
+489,Semi-Washed Kombucha Experiment,Fermented,"Brazylia, Tanzania",Mixed,dark,beans,100,TRUE,TRUE,FALSE,FALSE,TRUE,espresso
+490,Washed,Washed,"Salwador, Nikaragua",Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+491,Natural,Natural,Panama,Latam,dark,beans,60,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+492,Natural,Natural,Brazylia,Latam,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+493,Washed,Washed,Gwatemala,Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+494,Washed,Washed,Gwatemala,Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+495,Washed,Washed,Gwatemala,Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+496,Semi-Washed Kombucha Experiment,Fermented,Brazylia,Latam,dark,ground,100,TRUE,TRUE,FALSE,FALSE,TRUE,espresso
+497,Rum Aged,Fermented,"Brazylia, Indie",Mixed,dark,ground,80,FALSE,FALSE,FALSE,FALSE,FALSE,espresso
+498,Semi-Washed Kombucha Experiment,Fermented,"Brazylia, Tanzania",Mixed,dark,beans,100,TRUE,TRUE,FALSE,FALSE,TRUE,espresso
+499,Rum Aged,Fermented,"Peru, Gwatemala",Latam,dark,beans,75,FALSE,FALSE,FALSE,FALSE,FALSE,espresso
+500,Rum Aged,Fermented,"Peru, Gwatemala",Latam,dark,beans,75,FALSE,FALSE,FALSE,FALSE,FALSE,espresso
+501,Rum Aged,Fermented,"Peru, Gwatemala",Latam,dark,beans,75,FALSE,FALSE,FALSE,FALSE,FALSE,espresso
+502,Natural,Natural,Panama,Latam,dark,beans,90,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+503,Washed,Washed,"Brazylia, Peru, Wietnam",Mixed,dark,ground,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+504,Semi-Washed Kombucha Experiment,Fermented,"Brazylia, Tanzania",Mixed,dark,beans,100,TRUE,TRUE,FALSE,FALSE,TRUE,espresso
+505,Semi-Washed Kombucha Experiment,Fermented,"Brazylia, Tanzania",Mixed,dark,beans,100,TRUE,TRUE,FALSE,FALSE,TRUE,espresso
+506,Semi-Washed Kombucha Experiment,Fermented,"Brazylia, Tanzania",Mixed,dark,beans,100,TRUE,TRUE,FALSE,FALSE,TRUE,espresso
+507,Washed,Washed,"Etiopia, Kolumbia",Mixed,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+508,Washed,Washed,"Etiopia, Kolumbia",Mixed,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+509,Pulped natural,Hybrid,Brazylia,Latam,medium,beans,100,TRUE,TRUE,TRUE,FALSE,FALSE,espresso
+510,Pulped natural,Hybrid,Brazylia,Latam,medium,beans,100,TRUE,TRUE,TRUE,FALSE,FALSE,espresso
+511,Washed,Washed,Kolumbia,Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+512,Washed,Washed,Kolumbia,Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+513,Natural,Natural,Etiopia,Africa,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+514,Natural,Natural,Etiopia,Africa,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+515,Washed,Washed,Etiopia,Africa,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+516,Washed,Washed,Etiopia,Africa,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+517,Natural,Natural,"Etiopia, Brazylia",Mixed,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+518,Natural,Natural,"Etiopia, Brazylia",Mixed,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+519,Natural,Natural,"Etiopia, Brazylia, Kolumbia",Mixed,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+520,Natural,Natural,"Etiopia, Brazylia",Mixed,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+521,Natural,Natural,"Etiopia, Brazylia, Kolumbia",Mixed,dark,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+522,Natural,Natural,"Etiopia, Brazylia, Kolumbia",Mixed,dark,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+523,Natural,Natural,"Etiopia, Brazylia",Mixed,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+524,Pulped natural,Hybrid,"Brazylia, Indie",Mixed,medium,beans,100,TRUE,TRUE,TRUE,FALSE,FALSE,espresso
+525,Semi-Carbonic Maceration,Fermented,"Brazylia, Etiopia",Mixed,dark,beans,100,TRUE,FALSE,FALSE,FALSE,FALSE,espresso
+526,Semi-Carbonic Maceration,Fermented,"Brazylia, Etiopia",Mixed,dark,beans,100,TRUE,FALSE,FALSE,FALSE,FALSE,espresso
+527,Pulped natural,Hybrid,Brazylia,Latam,medium,beans,100,TRUE,TRUE,TRUE,FALSE,FALSE,espresso
+528,Pulped natural,Hybrid,Brazylia,Latam,medium,beans,100,TRUE,TRUE,TRUE,FALSE,FALSE,espresso
+529,Natural,Natural,Brazylia,Latam,medium,ground,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+530,Natural,Natural,Brazylia,Latam,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+531,Natural,Natural,Brazylia,Latam,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+532,Semi-Washed Kombucha Experiment,Fermented,"Brazylia, Indie",Mixed,dark,beans,80,FALSE,TRUE,FALSE,FALSE,TRUE,espresso
+533,Semi-Washed Kombucha Experiment,Fermented,"Brazylia, Indie",Mixed,dark,beans,80,FALSE,TRUE,FALSE,FALSE,TRUE,espresso
+534,Semi-Washed Kombucha Experiment,Fermented,"Brazylia, Indie",Mixed,dark,beans,80,FALSE,TRUE,FALSE,FALSE,TRUE,espresso
+535,Washed,Washed,"Brazylia, Gwatemala, Etiopia",Mixed,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+536,Washed,Washed,"Brazylia, Gwatemala, Etiopia",Mixed,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+537,Washed,Washed,"Brazylia, Gwatemala, Etiopia",Mixed,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+538,Natural,Natural,Brazylia,Latam,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+539,Natural,Natural,Brazylia,Latam,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+540,Natural,Natural,Brazylia,Latam,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+541,Natural,Natural,Brazylia,Latam,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+542,Washed,Washed,Gwatemala,Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+543,Washed and natural,Hybrid,Etiopia,Africa,medium,beans,100,TRUE,TRUE,TRUE,FALSE,FALSE,espresso
+544,Washed and natural,Hybrid,Etiopia,Africa,medium,beans,100,TRUE,TRUE,TRUE,FALSE,FALSE,espresso
+545,Washed,Washed,"Brazylia, Gwatemala",Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+546,Washed,Washed,"Brazylia, Gwatemala",Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+547,Washed,Washed,"Brazylia, Gwatemala",Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+548,Washed,Washed,Gwatemala,Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+549,Semi-Carbonic Maceration,Fermented,Brazylia,Latam,dark,beans,100,TRUE,FALSE,FALSE,FALSE,FALSE,espresso
+550,Washed,Washed,Kolumbia,Latam,dark,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+551,Semi-Carbonic Maceration,Fermented,Etiopia,Africa,dark,beans,100,TRUE,FALSE,FALSE,FALSE,FALSE,espresso
+552,Washed,Washed,Gwatemala,Latam,dark,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+553,Washed,Washed,"Brazylia, Peru, Wietnam",Mixed,dark,ground,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+554,Washed,Washed,"Brazylia, Peru, Wietnam",Mixed,dark,ground,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+555,Washed,Washed,"Brazylia, Peru, Wietnam",Mixed,dark,ground,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+556,Semi-Washed Kombucha Experiment,Fermented,"Brazylia, Tanzania",Mixed,dark,beans,100,TRUE,TRUE,FALSE,FALSE,TRUE,espresso
+557,Washed,Washed,"Brazylia, Peru, Wietnam",Mixed,dark,ground,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+558,Semi-Washed Kombucha Experiment,Fermented,"Brazylia, Tanzania",Mixed,dark,beans,100,TRUE,TRUE,FALSE,FALSE,TRUE,espresso
+559,Natural,Natural,Panama,Latam,dark,beans,92,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+560,Natural,Natural,Panama,Latam,dark,beans,92,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+561,Natural,Natural,Panama,Latam,dark,beans,90,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+562,Washed,Washed,"Brazylia, Peru, Wietnam",Mixed,dark,ground,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+563,Washed,Washed,"Brazylia, Peru, Wietnam",Mixed,dark,ground,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+564,Semi-Washed Kombucha Experiment,Fermented,"Brazylia, Tanzania",Mixed,dark,beans,100,TRUE,TRUE,FALSE,FALSE,TRUE,espresso
+565,Semi-Washed Kombucha Experiment,Fermented,"Brazylia, Tanzania",Mixed,dark,beans,100,TRUE,TRUE,FALSE,FALSE,TRUE,espresso
+566,Pulped natural,Hybrid,Indonezja,Asia,dark,ground,50,FALSE,TRUE,TRUE,FALSE,FALSE,espresso
+567,Natural,Natural,Panama,Latam,dark,beans,50,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+568,Natural,Natural,Panama,Latam,dark,beans,50,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+569,Rum Aged,Fermented,"Brazylia, Indie",Mixed,dark,ground,80,FALSE,FALSE,FALSE,FALSE,FALSE,espresso
+570,Natural,Natural,"Etiopia, Brazylia",Mixed,dark,beans,80,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+571,Natural,Natural,"Etiopia, Brazylia",Mixed,dark,beans,80,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+572,Natural,Natural,Panama,Latam,dark,beans,50,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+573,Semi-Washed Kombucha Experiment,Fermented,"Brazylia, Tanzania",Mixed,dark,beans,100,TRUE,TRUE,FALSE,FALSE,TRUE,espresso
+574,Natural,Natural,"Honduras, Kolumbia, Peru",Latam,dark,beans,70,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+575,Natural,Natural,Panama,Latam,dark,beans,90,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+576,Natural,Natural,Etiopia,Africa,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+577,Natural,Natural,Etiopia,Africa,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+578,Pulped natural,Hybrid,"Brazylia, Indie",Mixed,medium,beans,100,TRUE,TRUE,TRUE,FALSE,FALSE,espresso
+579,Pulped natural,Hybrid,"Etiopia, Brazylia",Mixed,medium,beans,50,FALSE,TRUE,TRUE,FALSE,FALSE,espresso
+580,Pulped natural,Hybrid,"Brazylia, Indie",Mixed,medium,beans,100,TRUE,TRUE,TRUE,FALSE,FALSE,espresso
+581,Pulped natural,Hybrid,"Etiopia, Brazylia",Mixed,medium,beans,50,FALSE,TRUE,TRUE,FALSE,FALSE,espresso
+582,Pulped natural,Hybrid,"Etiopia, Brazylia",Mixed,medium,beans,50,FALSE,TRUE,TRUE,FALSE,FALSE,espresso
+583,Pulped natural,Hybrid,"Brazylia, Indie",Mixed,medium,beans,100,TRUE,TRUE,TRUE,FALSE,FALSE,espresso
+584,Pulped natural,Hybrid,"Brazylia, Indie",Mixed,medium,beans,100,TRUE,TRUE,TRUE,FALSE,FALSE,espresso
+585,Natural,Natural,Panama,Latam,dark,beans,50,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+586,Natural,Natural,Panama,Latam,dark,beans,40,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+587,Washed,Washed,"Brazylia, Peru, Wietnam",Mixed,dark,ground,30,FALSE,TRUE,FALSE,FALSE,FALSE,espresso
+588,Natural,Natural,Panama,Latam,dark,beans,60,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+589,Semi-Washed Kombucha Experiment,Fermented,"Brazylia, Tanzania",Mixed,dark,beans,100,TRUE,TRUE,FALSE,FALSE,TRUE,espresso
+590,Washed,Washed,"Brazylia, Peru, Wietnam",Mixed,dark,ground,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+591,Washed,Washed,"Brazylia, Peru, Wietnam",Mixed,dark,ground,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+592,Semi-Washed Kombucha Experiment,Fermented,"Brazylia, Tanzania",Mixed,dark,beans,100,TRUE,TRUE,FALSE,FALSE,TRUE,espresso
+593,Pulped natural,Hybrid,"Kenia, Indie",Mixed,dark,ground,40,FALSE,TRUE,TRUE,FALSE,FALSE,espresso
+594,Natural,Natural,Panama,Latam,dark,beans,40,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+595,Natural,Natural,Panama,Latam,dark,beans,40,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+596,Natural,Natural,Panama,Latam,dark,beans,40,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+597,Natural,Natural,Panama,Latam,dark,beans,90,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+598,Semi-Washed Kombucha Experiment,Fermented,"Brazylia, Indie",Mixed,dark,beans,78,FALSE,TRUE,FALSE,FALSE,TRUE,espresso
+599,Natural,Natural,Panama,Latam,dark,beans,85,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+600,Natural,Natural,Panama,Latam,dark,beans,85,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+601,Washed,Washed,Peru,Latam,dark,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+602,Natural,Natural,Salwador,Latam,dark,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+603,Natural,Natural,Salwador,Latam,dark,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+604,Washed,Washed,Etiopia,Africa,dark,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+605,Washed,Washed,Etiopia,Africa,dark,ground,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+606,Washed,Washed,Etiopia,Africa,dark,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+607,Washed,Washed,"Etiopia, Gwatemala",Mixed,dark,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+608,Washed,Washed,"Etiopia, Gwatemala",Mixed,dark,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+609,Washed,Washed,"Salwador, Indie",Mixed,dark,beans,75,FALSE,TRUE,FALSE,FALSE,FALSE,espresso
+610,Semi-Carbonic Maceration,Fermented,Brazylia,Latam,dark,beans,100,TRUE,FALSE,FALSE,FALSE,FALSE,espresso
+611,Natural,Natural,Salwador,Latam,dark,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+612,Washed,Washed,"Brazylia, Peru, Wietnam",Mixed,dark,ground,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+613,Semi-Washed Kombucha Experiment,Fermented,"Brazylia, Tanzania",Mixed,dark,beans,100,TRUE,TRUE,FALSE,FALSE,TRUE,espresso
+614,Rum Aged,Fermented,"Brazylia, Indie",Mixed,dark,ground,80,FALSE,FALSE,FALSE,FALSE,FALSE,espresso
+615,Natural,Natural,"Etiopia, Brazylia",Mixed,dark,beans,80,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+616,Natural,Natural,Panama,Latam,dark,beans,60,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+617,Natural,Natural,Panama,Latam,dark,beans,90,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+618,Natural,Natural,Panama,Latam,dark,beans,60,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+619,Natural,Natural,Panama,Latam,dark,beans,55,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+620,Washed,Washed,"Brazylia, Peru, Wietnam",Mixed,dark,ground,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+621,Natural,Natural,Panama,Latam,dark,beans,60,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+622,Natural,Natural,Kenia,Africa,medium,beans,70,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+623,Natural,Natural,Kenia,Africa,medium,beans,80,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+624,Natural,Natural,Kenia,Africa,medium,beans,80,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+625,Rum Aged,Fermented,Indonezja,Asia,medium,ground,70,FALSE,FALSE,FALSE,FALSE,FALSE,espresso
+626,Pulped natural,Hybrid,"Etiopia, Kolumbia",Mixed,medium,ground,60,FALSE,TRUE,TRUE,FALSE,FALSE,espresso
+627,Semi-Carbonic Maceration,Fermented,"Brazylia, Kolumbia",Latam,medium,ground,100,TRUE,FALSE,FALSE,FALSE,FALSE,espresso
+628,Washed,Washed,"Brazylia, Peru, Wietnam",Mixed,dark,ground,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+629,Washed,Washed,"Brazylia, Peru",Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+630,Semi-Washed Kombucha Experiment,Fermented,"Brazylia, Tanzania",Mixed,dark,beans,100,TRUE,TRUE,FALSE,FALSE,TRUE,espresso
+631,Natural,Natural,Rwanda,Africa,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+632,Semi-Washed Kombucha Experiment,Fermented,"Brazylia, Tanzania",Mixed,dark,beans,100,TRUE,TRUE,FALSE,FALSE,TRUE,espresso
+633,Natural,Natural,Panama,Latam,dark,beans,40,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+634,Natural,Natural,Panama,Latam,dark,beans,60,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+635,Natural,Natural,Panama,Latam,dark,beans,40,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+636,Natural,Natural,Panama,Latam,dark,beans,90,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+637,Natural,Natural,"Brazylia, Kostaryka, Nikaragua",Latam,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+638,Pulped natural,Hybrid,"Brazylia, Indie",Mixed,medium,beans,100,TRUE,TRUE,TRUE,FALSE,FALSE,espresso
+639,Pulped natural,Hybrid,"Brazylia, Indie",Mixed,medium,beans,100,TRUE,TRUE,TRUE,FALSE,FALSE,espresso
+640,Pulped natural,Hybrid,"Brazylia, Indie",Mixed,medium,beans,100,TRUE,TRUE,TRUE,FALSE,FALSE,espresso
+641,Washed,Washed,"Kenia, Indie",Mixed,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+642,Natural,Natural,Brazylia,Latam,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+643,Natural,Natural,Brazylia,Latam,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+644,Washed,Washed,"Brazylia, Peru, Wietnam",Mixed,dark,ground,30,FALSE,TRUE,FALSE,FALSE,FALSE,espresso
+645,Natural,Natural,Panama,Latam,dark,beans,50,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+646,Washed,Washed,"Brazylia, Peru, Wietnam",Mixed,dark,ground,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+647,Semi-Carbonic Maceration,Fermented,"Brazylia, Kolumbia",Latam,medium,ground,100,TRUE,FALSE,FALSE,FALSE,FALSE,espresso
+648,Washed,Washed,"Brazylia, Peru, Wietnam",Mixed,dark,ground,30,FALSE,TRUE,FALSE,FALSE,FALSE,espresso
+649,Pulped natural,Hybrid,Indonezja,Asia,dark,ground,50,FALSE,TRUE,TRUE,FALSE,FALSE,espresso
+650,Natural,Natural,Panama,Latam,dark,beans,50,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+651,Natural,Natural,Panama,Latam,dark,beans,30,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+652,Semi-Washed Kombucha Experiment,Fermented,"Brazylia, Tanzania",Mixed,dark,beans,100,TRUE,TRUE,FALSE,FALSE,TRUE,espresso
+653,Natural,Natural,Panama,Latam,dark,beans,60,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+654,Rum Aged,Fermented,"Peru, Gwatemala",Latam,dark,beans,75,FALSE,FALSE,FALSE,FALSE,FALSE,espresso
+655,Natural,Natural,Panama,Latam,dark,beans,10,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+656,Natural,Natural,Brazylia,Latam,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+657,Pulped natural,Hybrid,"Brazylia, Indie",Mixed,medium,beans,100,TRUE,TRUE,TRUE,FALSE,FALSE,espresso
+658,Washed,Washed,Chiny,Asia,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+659,Washed,Washed,Kolumbia,Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+660,Natural,Natural,Brazylia,Latam,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+661,Natural,Natural,Brazylia,Latam,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+662,Natural,Natural,Brazylia,Latam,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+663,Natural,Natural,Brazylia,Latam,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+664,Natural,Natural,Brazylia,Latam,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+665,Natural,Natural,Brazylia,Latam,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+666,Pulped natural,Hybrid,Brazylia,Latam,medium,beans,100,TRUE,TRUE,TRUE,FALSE,FALSE,espresso
+667,Pulped natural,Hybrid,Brazylia,Latam,medium,beans,100,TRUE,TRUE,TRUE,FALSE,FALSE,espresso
+668,Honey,Honey,Kostaryka,Latam,medium,beans,100,TRUE,TRUE,TRUE,TRUE,FALSE,espresso
+669,Rum Aged,Fermented,"Peru, Gwatemala",Latam,dark,beans,75,FALSE,FALSE,FALSE,FALSE,FALSE,espresso
+670,Washed,Washed,"Brazylia, Gwatemala",Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+671,Washed,Washed,"Brazylia, Honduras",Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+672,Washed,Washed,"Brazylia, Honduras",Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+673,Washed,Washed,Gwatemala,Latam,dark,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+674,Natural,Natural,Uganda,Africa,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+675,Semi-Washed Kombucha Experiment,Fermented,"Brazylia, Uganda",Mixed,medium,beans,100,TRUE,TRUE,FALSE,FALSE,TRUE,espresso
+676,Natural,Natural,"Brazylia, Uganda",Mixed,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+677,Natural,Natural,Brazylia,Latam,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+678,Natural,Natural,Brazylia,Latam,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+679,Washed and natural,Hybrid,"Brazylia, Tanzania",Mixed,medium,beans,100,TRUE,TRUE,TRUE,FALSE,FALSE,espresso
+680,Washed,Washed,"Peru, Gwatemala",Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+681,Washed,Washed,"Peru, Gwatemala",Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+682,Washed,Washed,Gwatemala,Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+683,Washed,Washed,Gwatemala,Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+684,Natural,Natural,Brazylia,Latam,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+685,Natural,Natural,Brazylia,Latam,dark,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+686,Natural,Natural,Brazylia,Latam,dark,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+687,Washed,Washed,Gwatemala,Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+688,Washed,Washed,Gwatemala,Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+689,Washed,Washed,Gwatemala,Latam,medium,ground,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+690,Semi-washed,Semi-washed,"Brazylia, Gwatemala",Latam,dark,beans,100,TRUE,TRUE,FALSE,TRUE,FALSE,espresso
+691,Semi-washed,Semi-washed,"Brazylia, Gwatemala",Latam,dark,beans,100,TRUE,TRUE,FALSE,TRUE,FALSE,espresso
+692,Semi-Washed Kombucha Experiment,Fermented,"Brazylia, Tanzania",Mixed,dark,beans,100,TRUE,TRUE,FALSE,FALSE,TRUE,espresso
+693,Natural,Natural,Panama,Latam,dark,beans,92,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+694,Natural,Natural,"Etiopia, Brazylia",Mixed,dark,beans,80,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+695,Washed,Washed,Gwatemala,Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+696,Natural,Natural,Burundi,Africa,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+697,Natural,Natural,Panama,Latam,dark,beans,65,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+698,Natural,Natural,Panama,Latam,dark,beans,35,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+699,Natural,Natural,Brazylia,Latam,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+700,Natural,Natural,Brazylia,Latam,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+701,Natural,Natural,Brazylia,Latam,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+702,Washed,Washed,Brazylia,Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+703,Washed,Washed,Brazylia,Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+704,Washed,Washed,Peru,Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+705,Washed,Washed,"Brazylia, Peru, Wietnam",Mixed,dark,ground,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+706,Semi-Washed Kombucha Experiment,Fermented,"Brazylia, Tanzania",Mixed,dark,beans,100,TRUE,TRUE,FALSE,FALSE,TRUE,espresso
+707,Washed,Washed,"Brazylia, Peru, Wietnam",Mixed,dark,ground,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+708,Semi-Washed Kombucha Experiment,Fermented,"Brazylia, Tanzania",Mixed,dark,beans,100,TRUE,TRUE,FALSE,FALSE,TRUE,espresso
+709,Semi-Washed Kombucha Experiment,Fermented,"Brazylia, Tanzania",Mixed,dark,beans,100,TRUE,TRUE,FALSE,FALSE,TRUE,espresso
+710,Semi-Carbonic Maceration,Fermented,Brazylia,Latam,dark,beans,100,TRUE,FALSE,FALSE,FALSE,FALSE,espresso
+711,Semi-Washed Kombucha Experiment,Fermented,Brazylia,Latam,dark,beans,70,FALSE,TRUE,FALSE,FALSE,TRUE,espresso
+712,Washed,Washed,Kolumbia,Latam,dark,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+713,Natural,Natural,Nikaragua,Latam,dark,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+714,Natural,Natural,Salwador,Latam,dark,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+715,Natural,Natural,Etiopia,Africa,dark,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+716,Semi-Carbonic Maceration,Fermented,Etiopia,Africa,dark,beans,100,TRUE,FALSE,FALSE,FALSE,FALSE,espresso
+717,Semi-Carbonic Maceration,Fermented,Etiopia,Africa,dark,beans,100,TRUE,FALSE,FALSE,FALSE,FALSE,espresso
+718,Washed,Washed,Kolumbia,Latam,dark,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+719,Washed,Washed,Kolumbia,Latam,dark,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+720,Washed,Washed,Peru,Latam,dark,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+721,Washed,Washed,"Brazylia, Peru, Wietnam",Mixed,dark,ground,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+722,Pulped natural,Hybrid,"Brazylia, Indie",Mixed,medium,beans,100,TRUE,TRUE,TRUE,FALSE,FALSE,espresso
+723,Natural,Natural,Brazylia,Latam,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+724,Washed,Washed,Kolumbia,Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+725,Semi-Washed Kombucha Experiment,Fermented,"Brazylia, Tanzania",Mixed,dark,beans,100,TRUE,TRUE,FALSE,FALSE,TRUE,espresso
+726,Semi-Washed Kombucha Experiment,Fermented,"Brazylia, Tanzania",Mixed,dark,beans,100,TRUE,TRUE,FALSE,FALSE,TRUE,espresso
+727,Natural,Natural,Kenia,Africa,medium,beans,80,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+728,Washed,Washed,"Etiopia, Kolumbia",Mixed,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+729,Natural,Natural,Etiopia,Africa,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+730,Natural,Natural,Etiopia,Africa,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+731,Washed,Washed,"Brazylia, Kolumbia",Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+732,Washed,Washed,Kolumbia,Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+733,Washed,Washed,"Brazylia, Peru, Wietnam",Mixed,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+734,Pulped natural,Hybrid,Brazylia,Latam,dark,beans,100,TRUE,TRUE,TRUE,FALSE,FALSE,espresso
+735,Washed,Washed,Gwatemala,Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+736,Washed,Washed,Kolumbia,Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+737,Natural,Natural,Brazylia,Latam,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+738,Washed,Washed,Kolumbia,Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+739,Washed,Washed,"Brazylia, Peru, Wietnam",Mixed,dark,ground,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+740,Natural,Natural,"Honduras, Kolumbia, Peru",Latam,dark,beans,70,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+741,Natural,Natural,Panama,Latam,dark,beans,60,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+742,Semi-Washed Kombucha Experiment,Fermented,Etiopia,Africa,dark,ground,30,FALSE,TRUE,FALSE,FALSE,TRUE,espresso
+743,Rum Aged,Fermented,Laos,Asia,dark,ground,70,FALSE,FALSE,FALSE,FALSE,FALSE,espresso
+744,Natural,Natural,"Honduras, Kolumbia, Peru",Latam,dark,beans,70,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+745,Washed,Washed,"Brazylia, Peru, Wietnam",Mixed,dark,ground,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+746,Semi-Washed Kombucha Experiment,Fermented,"Brazylia, Tanzania",Mixed,dark,beans,100,TRUE,TRUE,FALSE,FALSE,TRUE,espresso
+747,Natural,Natural,Kenia,Africa,medium,beans,90,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+748,Washed,Washed,"Peru, Etiopia",Mixed,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+749,Natural,Natural,Kenia,Africa,medium,beans,85,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+750,Washed,Washed,Brazylia,Latam,dark,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+751,Washed,Washed,Gwatemala,Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+752,Pulped natural,Hybrid,"Brazylia, Indie",Mixed,medium,beans,100,TRUE,TRUE,TRUE,FALSE,FALSE,espresso
+753,Washed,Washed,Peru,Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+754,Natural,Natural,Kenia,Africa,medium,beans,60,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+755,Natural,Natural,Kenia,Africa,medium,beans,80,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+756,Natural,Natural,"Etiopia, Brazylia",Mixed,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+757,Semi-Carbonic Maceration,Fermented,"Brazylia, Kolumbia",Latam,medium,ground,100,TRUE,FALSE,FALSE,FALSE,FALSE,espresso
+758,Pulped natural,Hybrid,"Brazylia, Indie",Mixed,medium,beans,100,TRUE,TRUE,TRUE,FALSE,FALSE,espresso
+759,Washed,Washed,"Brazylia, Gwatemala, Kostaryka",Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+760,Semi-Washed Kombucha Experiment,Fermented,"Brazylia, Tanzania",Mixed,dark,beans,100,TRUE,TRUE,FALSE,FALSE,TRUE,espresso
+761,Semi-Washed Kombucha Experiment,Fermented,"Brazylia, Tanzania",Mixed,dark,beans,100,TRUE,TRUE,FALSE,FALSE,TRUE,espresso
+762,Washed,Washed,"Etiopia, Kolumbia",Mixed,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+763,Pulped natural,Hybrid,Brazylia,Latam,medium,beans,100,TRUE,TRUE,TRUE,FALSE,FALSE,espresso
+764,Pulped natural,Hybrid,Brazylia,Latam,medium,beans,100,TRUE,TRUE,TRUE,FALSE,FALSE,espresso
+765,Washed,Washed,Kolumbia,Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+766,Natural,Natural,Etiopia,Africa,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+767,Natural,Natural,Etiopia,Africa,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+768,Washed,Washed,Etiopia,Africa,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+769,Natural,Natural,"Etiopia, Brazylia",Mixed,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+770,Natural,Natural,"Etiopia, Brazylia",Mixed,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+771,Natural,Natural,"Etiopia, Brazylia, Kolumbia",Mixed,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+772,Natural,Natural,Brazylia,Latam,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+773,Natural,Natural,Brazylia,Latam,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+774,Washed,Washed,"Brazylia, Gwatemala, Etiopia",Mixed,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+775,Natural,Natural,Brazylia,Latam,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+776,Natural,Natural,Panama,Latam,dark,beans,84,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+777,Pulped natural,Hybrid,"Kenia, Indie",Mixed,dark,ground,95,FALSE,TRUE,TRUE,FALSE,FALSE,espresso
+778,Pulped natural,Hybrid,"Kenia, Indie",Mixed,dark,ground,95,FALSE,TRUE,TRUE,FALSE,FALSE,espresso
+779,Rum Aged,Fermented,Laos,Asia,dark,ground,70,FALSE,FALSE,FALSE,FALSE,FALSE,espresso
+780,Rum Aged,Fermented,"Brazylia, Indie",Mixed,dark,ground,80,FALSE,FALSE,FALSE,FALSE,FALSE,espresso
+781,Pulped natural,Hybrid,Brazylia,Latam,medium,beans,100,TRUE,TRUE,TRUE,FALSE,FALSE,espresso
+782,Pulped natural,Hybrid,"Brazylia, Indie",Mixed,medium,beans,100,TRUE,TRUE,TRUE,FALSE,FALSE,espresso
+783,Natural,Natural,Panama,Latam,dark,beans,40,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+784,Natural,Natural,Kenia,Africa,medium,beans,30,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+785,Pulped natural,Hybrid,"Etiopia, Brazylia",Mixed,medium,beans,50,FALSE,TRUE,TRUE,FALSE,FALSE,espresso
+786,Natural,Natural,"Honduras, Kolumbia, Peru",Latam,dark,beans,70,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+787,Semi-Washed Kombucha Experiment,Fermented,"Etiopia, Gwatemala",Mixed,dark,ground,0,FALSE,TRUE,FALSE,FALSE,TRUE,espresso
+788,Semi-washed,Semi-washed,"Honduras, Kolumbia, Peru",Latam,dark,beans,100,TRUE,TRUE,FALSE,TRUE,FALSE,espresso
+789,Washed,Washed,Brazylia,Latam,dark,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+790,Natural,Natural,Etiopia,Africa,dark,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+791,Washed,Washed,"Etiopia, Gwatemala",Mixed,dark,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+792,Washed,Washed,"Salwador, Indie",Mixed,dark,beans,75,FALSE,TRUE,FALSE,FALSE,FALSE,espresso
+793,Natural,Natural,"Etiopia, Brazylia",Mixed,dark,beans,80,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+794,Natural,Natural,Panama,Latam,dark,beans,40,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+795,Semi-Washed Kombucha Experiment,Fermented,"Brazylia, Tanzania",Mixed,dark,beans,100,TRUE,TRUE,FALSE,FALSE,TRUE,espresso
+796,Semi-Washed Kombucha Experiment,Fermented,"Brazylia, Tanzania",Mixed,dark,beans,100,TRUE,TRUE,FALSE,FALSE,TRUE,espresso
+797,Natural,Natural,Kenia,Africa,medium,beans,80,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+798,Pulped natural,Hybrid,"Kenia, Indie",Mixed,dark,ground,90,FALSE,TRUE,TRUE,FALSE,FALSE,espresso
+799,Semi-Washed Kombucha Experiment,Fermented,"Brazylia, Tanzania",Mixed,dark,beans,100,TRUE,TRUE,FALSE,FALSE,TRUE,espresso
+800,Semi-Washed Kombucha Experiment,Fermented,"Brazylia, Tanzania",Mixed,dark,beans,100,TRUE,TRUE,FALSE,FALSE,TRUE,espresso
+801,Washed,Washed,"Brazylia, Honduras",Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+802,Natural,Natural,Brazylia,Latam,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+803,Semi-Washed Kombucha Experiment,Fermented,"Brazylia, Tanzania",Mixed,dark,beans,100,TRUE,TRUE,FALSE,FALSE,TRUE,espresso
+804,Natural,Natural,Panama,Latam,dark,beans,60,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+805,Experimental,Experimental,Uganda,Africa,medium,beans,100,TRUE,FALSE,FALSE,FALSE,FALSE,espresso
+806,Washed,Washed,"Brazylia, Peru, Wietnam",Mixed,dark,ground,30,FALSE,TRUE,FALSE,FALSE,FALSE,espresso
+807,Washed,Washed,"Brazylia, Peru, Wietnam",Mixed,dark,ground,30,FALSE,TRUE,FALSE,FALSE,FALSE,espresso
+808,Natural,Natural,Brazylia,Latam,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+809,Rum Aged,Fermented,"Brazylia, Indie",Mixed,dark,ground,80,FALSE,FALSE,FALSE,FALSE,FALSE,espresso
+810,Natural,Natural,Brazylia,Latam,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+811,Natural,Natural,Brazylia,Latam,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+812,Semi-Washed Kombucha Experiment,Fermented,"Brazylia, Tanzania",Mixed,dark,beans,100,TRUE,TRUE,FALSE,FALSE,TRUE,espresso
+813,Washed,Washed,"Brazylia, Gwatemala",Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+814,Washed,Washed,"Peru, Gwatemala",Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+815,Natural,Natural,Burundi,Africa,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+816,Washed,Washed,"Brazylia, Kostaryka, Nikaragua",Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+817,Natural,Natural,"Etiopia, Brazylia",Mixed,dark,beans,80,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+818,Natural,Natural,Panama,Latam,dark,beans,60,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+819,Washed,Washed,"Honduras, Kolumbia, Peru",Latam,dark,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+820,Semi-Washed Kombucha Experiment,Fermented,"Brazylia, Tanzania",Mixed,dark,beans,100,TRUE,TRUE,FALSE,FALSE,TRUE,espresso
+821,Washed,Washed,Brazylia,Latam,dark,ground,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+822,Semi-Washed Kombucha Experiment,Fermented,"Brazylia, Indie",Mixed,dark,beans,78,FALSE,TRUE,FALSE,FALSE,TRUE,espresso
+823,Pulped natural,Hybrid,Honduras,Latam,dark,ground,85,FALSE,TRUE,TRUE,FALSE,FALSE,espresso
+824,Washed,Washed,Brazylia,Latam,dark,ground,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+825,Washed,Washed,Brazylia,Latam,dark,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+826,Semi-Washed Kombucha Experiment,Fermented,"Brazylia, Indie",Mixed,dark,beans,100,TRUE,TRUE,FALSE,FALSE,TRUE,espresso
+827,Semi-Washed Kombucha Experiment,Fermented,"Brazylia, Indie",Mixed,dark,beans,100,TRUE,TRUE,FALSE,FALSE,TRUE,espresso
+828,Washed,Washed,Peru,Latam,dark,ground,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+829,Washed,Washed,"Salwador, Indie",Mixed,dark,beans,75,FALSE,TRUE,FALSE,FALSE,FALSE,espresso
+830,Semi-Carbonic Maceration,Fermented,Brazylia,Latam,dark,beans,100,TRUE,FALSE,FALSE,FALSE,FALSE,espresso
+831,Washed,Washed,Burundi,Africa,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+832,Washed,Washed,Kolumbia,Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+833,Anaerobic,Fermented,Kolumbia,Latam,medium,beans,100,TRUE,FALSE,FALSE,FALSE,TRUE,espresso
+834,Natural,Natural,Brazylia,Latam,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+835,Pulped natural,Hybrid,Indonezja,Asia,dark,ground,55,FALSE,TRUE,TRUE,FALSE,FALSE,espresso
+836,Honey,Honey,Laos,Asia,medium,beans,0,FALSE,TRUE,TRUE,TRUE,FALSE,espresso
+837,Washed,Washed,"Brazylia, Kolumbia",Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+838,Washed,Washed,Kolumbia,Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+839,Washed,Washed,Kolumbia,Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+840,Natural,Natural,Etiopia,Africa,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+841,Natural,Natural,Brazylia,Latam,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+842,Washed,Washed,Papua Nowa Gwinea,Africa,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+843,Washed,Washed,Gwatemala,Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+844,Washed,Washed,"Brazylia, Honduras",Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+845,Natural,Natural,Brazylia,Latam,medium,beans,100,TRUE,FALSE,TRUE,FALSE,FALSE,espresso
+846,Washed,Washed,Kolumbia,Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+847,Washed,Washed,Meksyk,Latam,medium,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+848,Natural,Natural,Panama,Latam,dark,beans,90,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+849,Pulped natural,Hybrid,"Brazylia, Indie",Mixed,medium,beans,100,TRUE,TRUE,TRUE,FALSE,FALSE,espresso
+850,Natural,Natural,Kenia,Africa,medium,beans,80,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+851,Natural,Natural,Kenia,Africa,medium,beans,80,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+852,Washed,Washed,"Brazylia, Peru, Wietnam",Mixed,dark,ground,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+853,Washed,Washed,"Brazylia, Peru, Wietnam",Mixed,dark,ground,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+854,Rum Aged,Fermented,Gwatemala,Latam,light,beans,0,FALSE,FALSE,FALSE,FALSE,FALSE,"drip, espresso"
+855,Rum Aged,Fermented,Gwatemala,Latam,light,beans,0,FALSE,FALSE,FALSE,FALSE,FALSE,"drip, espresso"
+856,Rum Aged,Fermented,Gwatemala,Latam,light,beans,0,FALSE,FALSE,FALSE,FALSE,FALSE,"drip, espresso"
+857,Honey + Anaerobic,Honey,Brazylia,Latam,light,beans,100,TRUE,TRUE,TRUE,FALSE,TRUE,drip
+858,Washed,Washed,"Brazylia, Peru, Wietnam",Mixed,dark,ground,100,TRUE,TRUE,FALSE,FALSE,FALSE,espresso
+859,Natural,Natural,Panama,Latam,light,beans,30,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+860,Rum Aged,Fermented,Gwatemala,Latam,light,beans,100,TRUE,FALSE,FALSE,FALSE,FALSE,drip
+861,Natural,Natural,Panama,Latam,light,beans,30,FALSE,FALSE,TRUE,FALSE,FALSE,espresso
+862,Pulped natural,Hybrid,Nikaragua,Latam,light,beans,100,TRUE,TRUE,TRUE,FALSE,FALSE,drip
+863,Washed,Washed,Gwatemala,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
+864,Washed,Washed,Gwatemala,Latam,light,beans,100,TRUE,TRUE,FALSE,FALSE,FALSE,drip
