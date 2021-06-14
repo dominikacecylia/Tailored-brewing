@@ -2,7 +2,7 @@
 
 The principal project goal is to decide on coffee brewing method based on collected parameters. This is motivated by a business goal of the client, who is a chain of specialty brewers. The client wants to place orders for coffee beans based on the intended brewing method.
 
-![client profile]('images_for_readme\client_profile.PNG')
+![client profile]('https://github.com/dominikacecylia/Tailored-brewing/blob/master/images_for_readme/client_profile.PNG')
 
 ## Usage:
 In order to use the coffee classifier:
