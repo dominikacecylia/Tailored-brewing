@@ -5,7 +5,7 @@ The principal project goal is to decide on coffee brewing method based on collec
 ![client profile]('client_profile.PNG')
 
 Data is composed of coffee details such as:
-- egion of origin
+- region of origin
 - roast
 - processing methods
 - blend
@@ -28,7 +28,11 @@ In order to use the coffee classifier:
     - tailored_brewing_eda.ipynb - can be reused for data analysis, you will only need to change names of the variables, also noting that data used originally was all categorical
     - continue with tailored_brewing_classification.ipynb - where you can use your data following logical order in the notebook, and maybe changing the hyperparameters and costs assigned to false positive (type 1 error) and false negative (type 2 error)
 
+## Results:
 
+Some of the variables, such as roast and blend were omitted in the data classification, given their direct correlation to the target variable.
+The best score was 72% on validation data, which is pretty decent but still short of assuring the client with placing orders on new beans.
+Moreover, it is recommended that the client does not rely on the machine learning solution, as it is enought to order pure blends and light or medium roast of beans and such coffee will be good for specialty brewing. More factors such as processing methods surely influence the flavor, and could be used to look for particular taste notes in coffee, but the problem is easier than originally supposed and ML algorith does not contribute enough to be worthy of further development for this particular client whith his business goal.
 
 ## License:
 [MIT License](https://choosealicense.com/licenses/mit/)
