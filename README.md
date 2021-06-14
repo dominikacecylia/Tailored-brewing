@@ -4,6 +4,17 @@ The principal project goal is to decide on coffee brewing method based on collec
 
 ![client profile]('client_profile.PNG')
 
+Data is composed of coffee details such as:
+- egion of origin
+- roast
+- processing methods
+- blend
+- and target variable: **brewing method**
+
+The idea is for the client to be able to order coffee beans for specialty brewing based on their parameters, hence finding new coffee suppliers and potentially expanding business to new locations, to offer wider range of specialty coffees to a wider public.
+Given the client's profile, it is especially important to make sure that selected coffee is indeed appropriate for specialty brewing, as damaging brand due to bad experience of a customer is higher than the risk of missing out on cheaper raw material. Nevertheless, both costs of such situations were considered in optimizing the model.
+Model success is evaluated using **PPV (positive predictive rate)** metric, which makes sure that coffee offerred by the client is only the specialty beans.
+
 ## Usage:
 In order to use the coffee classifier:
 1. If you want to use project data:
